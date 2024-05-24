@@ -1,0 +1,32 @@
+/* h1{
+    color:red;
+    font-size: 4rem;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+}
+
+p{
+    color:green;
+    font-size: 1.5rem;
+    
+} */
+
+/*.rojito{
+    color:red;
+    font-size: 4rem;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+}
+
+#otro{
+    color:blue;
+    font-size: 1.5rem;
+}*/
+
+/*Resteo de estilos generales */
+*,*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+}
+
